@@ -3,15 +3,25 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "cors": "^2.8.4",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "path": "^0.12.7",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node ./server/server.js",
+    "start:react": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": ">=8.0.0",
+    "npm": ">=5.6.0",
+    "yarn": ">=1.6.0"
   },
   "eslintConfig": {
     "extends": "react-app"
