@@ -6,15 +6,15 @@ function createSlackWrapper(attachment) {
     text: "Eat here:",
     attachments: [
       {
-        title: "Name",
+        // title: "Name",
         text: attachment.name
       },
       {
-        title: "Address",
+        // title: "Address",
         text: attachment.address
       },
       {
-        title: "Yelp",
+        // title: "Yelp",
         text: attachment.yelp
       }
     ]
