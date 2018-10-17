@@ -4,6 +4,26 @@
       "name": "Taco Libre",
       "address": "135 Colorado Ave Santa Monica, CA 90401",
       "yelp": "https://www.yelp.com/biz/taco-libre-santa-monica-santa-monica?osq=tacos"
+    },
+    {
+      "name": "Cava",
+      "address": "1318 2nd St Ste A Santa Monica, CA 90401",
+      "yelp": "https://www.yelp.com/biz/cava-santa-monica-2?osq=cava"
+    },
+    {
+      "name": "Tender Greens",
+      "address": "201 Arizona Ave Santa Monica, CA 90401",
+      "yelp": "https://www.yelp.com/biz/tender-greens-santa-monica?osq=tender+greens"
+    },
+    {
+      "name": "KazuNori: The Original Hand Roll Bar",
+      "address": "120 Broadway Ste 104 Santa Monica, CA 90401",
+      "yelp": "https://www.yelp.com/biz/kazunori-the-original-hand-roll-bar-santa-monica?osq=hand+rolls"
+    },
+    {
+      "name": "Thai Dishes on Broadway",
+      "address": "123 Broadway St Santa Monica, CA 90401",
+      "yelp": "https://www.yelp.com/biz/thai-dishes-on-broadway-santa-monica?osq=thai+food"
     }
   ]
 }
