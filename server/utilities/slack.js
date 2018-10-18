@@ -3,10 +3,10 @@ module.exports = { createSlackWrapper };
 function createSlackWrapper(attachment) {
   return {
     response_type: "in_channel",
-    text: "Eat here:",
+    text: "Can't figure out where to eat?  Eat here...",
     attachments: [
       {
-        title: "Name",
+        title: "Place",
         text: attachment.name
       },
       {

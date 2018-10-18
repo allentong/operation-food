@@ -24,6 +24,11 @@
       "name": "Thai Dishes on Broadway",
       "address": "123 Broadway St Santa Monica, CA 90401",
       "yelp": "https://www.yelp.com/biz/thai-dishes-on-broadway-santa-monica?osq=thai+food"
+    },
+    {
+      "name": "Silverlake Ramen",
+      "address": "1319 3rd Street Promenade Santa Monica, CA 90401",
+      "yelp": "https://www.yelp.com/biz/silverlake-ramen-santa-monica-4?osq=silverlake+ramen"
     }
   ]
 }
